@@ -1,6 +1,10 @@
 Test-bung-7
 ===========
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+¦Rang¦Verein           ¦Punkte¦
+-----¦ ----------------¦-----¦
+¦1. ¦Willisau          ¦22   ¦
+¦1. ¦Willisau          ¦22   ¦
+¦1. ¦Willisau          ¦22   ¦
+¦1. ¦Willisau          ¦22   ¦
+¦1. ¦Willisau          ¦22   ¦
+¦1. ¦Willisau          ¦22   ¦
